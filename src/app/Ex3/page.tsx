@@ -126,7 +126,7 @@ function App() {
         <div>
           status: {account.status}
           <br />
-          addresses: {account?.addresses?.[0]}
+          address: {account?.addresses?.[0]}
           <br />
           chainId: {account.chainId}
         </div>

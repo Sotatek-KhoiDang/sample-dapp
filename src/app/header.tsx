@@ -6,10 +6,10 @@ export default function Header() {
           <a href="/Ex1">Exercise 1</a>
         </div>
         <div>
-          <a href="/Ex1">Exercise 2</a>
+          <a href="/Ex2">Exercise 2</a>
         </div>
         <div>
-          <a href="/Ex1">Exercise 3</a>
+          <a href="/Ex3">Exercise 3</a>
         </div>
       </div>
     </>
