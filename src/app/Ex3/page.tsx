@@ -195,7 +195,7 @@ function App() {
           </div>
           <div>
             <label>
-              Amount (in ETH):
+              Amount:
               <input
                 type="number"
                 value={amount}
